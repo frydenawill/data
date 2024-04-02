@@ -1,0 +1,105 @@
+{
+  "form": {
+    "2": {
+      "opts": {
+        "values": [
+          {
+            "uid": "5l1865471cg",
+            "v": "Ja"
+          },
+          {
+            "uid": "2q9u4gb1hc2",
+            "v": "Nein"
+          }
+        ]
+      },
+      "q": "Gab es in den letzten 12 Monaten Datenschutzverletzungen oder Sicherheitsvorfälle in Ihrem Unternehmen?",
+      "type": "radio"
+    },
+    "10pissqpm2o": {
+      "opts": {
+        "values": [
+          {
+            "uid": "5l1865471cg",
+            "v": "Sehr gut"
+          },
+          {
+            "uid": "2q9u4gb1hc2",
+            "v": "Gut"
+          },
+          {
+            "uid": "4fg09hef33j",
+            "v": "Durchschnittlich"
+          },
+          {
+            "uid": "70dvtv3q6u7",
+            "v": "Schlecht"
+          }
+        ]
+      },
+      "q": "Wie bewerten Sie die allgemeine Datenschutzpraxis in Ihrem Unternehmen?",
+      "type": "radio"
+    },
+    "3vk3sbdg2vo": {
+      "opts": {
+        "values": [
+          {
+            "uid": "5l1865471cg",
+            "v": "1-50"
+          },
+          {
+            "uid": "2q9u4gb1hc2",
+            "v": "51-200"
+          },
+          {
+            "uid": "4fg09hef33j",
+            "v": "201-500"
+          },
+          {
+            "uid": "70dvtv3q6u7",
+            "v": "Mehr als 500"
+          }
+        ]
+      },
+      "q": "Wie viele Mitarbeiter hat Ihr Unternehmen?",
+      "type": "radio"
+    },
+    "7n5m52ib4bc": {
+      "opts": {
+        "values": [
+          {
+            "uid": "5l1865471cg",
+            "v": "Informationstechnologie (IT)"
+          },
+          {
+            "uid": "2q9u4gb1hc2",
+            "v": "Finanzdienstleistungen"
+          },
+          {
+            "uid": "4fg09hef33j",
+            "v": "Einzelhandel"
+          },
+          {
+            "uid": "70dvtv3q6u7",
+            "v": "Produktion/Fertigung"
+          }
+        ]
+      },
+      "q": "In welcher Branche arbeitet Ihr Unternehmen?",
+      "type": "radio"
+    }
+  },
+  "metadata": {
+    "chat2": "c16e288f8751aa8d83021969bf2d0ca2",
+    "defaultTitle": "Formular - Di., 2. April 2024",
+    "title": "Formular - Di., 2. April 2024",
+    "type": "form"
+  },
+  "order": [
+    "7n5m52ib4bc",
+    "3vk3sbdg2vo",
+    "10pissqpm2o",
+    "2"
+  ],
+  "version": 1
+}
